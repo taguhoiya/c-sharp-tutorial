@@ -1,4 +1,7 @@
-﻿WorkWithString();
+﻿// WorkWithString();
+int[] array = { 1, 2, 3, 4, 5 };
+
+Console.WriteLine(String.Join(" ", array));
 
 void WorkWithString()
 {
