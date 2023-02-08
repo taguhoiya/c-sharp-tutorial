@@ -7,8 +7,9 @@ public class Trim
     Console.WriteLine(songLyrics.Contains("goodbye"));
     Console.WriteLine(songLyrics.Contains("greetings"));
     Console.WriteLine(songLyrics.StartsWith("You"));
-    Console.WriteLine(songLyrics.EndsWith("goodbye"));
-    Console.WriteLine(songLyrics.StartsWith("hello"));
+    Console.WriteLine(songLyrics.StartsWith("goodbye"));
+
+    Console.WriteLine(songLyrics.EndsWith("hello"));
     Console.WriteLine(songLyrics.EndsWith("goodbye"));
   }
 }
