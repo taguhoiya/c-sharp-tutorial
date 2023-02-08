@@ -1,0 +1,15 @@
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/loopandif/bin/Debug/net7.0/LoopAndIf
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/loopandif/bin/Debug/net7.0/LoopAndIf.deps.json
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/loopandif/bin/Debug/net7.0/LoopAndIf.runtimeconfig.json
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/loopandif/bin/Debug/net7.0/LoopAndIf.dll
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/loopandif/bin/Debug/net7.0/LoopAndIf.pdb
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/loopandif/obj/Debug/net7.0/LoopAndIf.csproj.AssemblyReference.cache
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/loopandif/obj/Debug/net7.0/LoopAndIf.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/loopandif/obj/Debug/net7.0/LoopAndIf.AssemblyInfoInputs.cache
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/loopandif/obj/Debug/net7.0/LoopAndIf.AssemblyInfo.cs
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/loopandif/obj/Debug/net7.0/LoopAndIf.csproj.CoreCompileInputs.cache
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/loopandif/obj/Debug/net7.0/LoopAndIf.dll
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/loopandif/obj/Debug/net7.0/refint/LoopAndIf.dll
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/loopandif/obj/Debug/net7.0/LoopAndIf.pdb
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/loopandif/obj/Debug/net7.0/LoopAndIf.genruntimeconfig.cache
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/loopandif/obj/Debug/net7.0/ref/LoopAndIf.dll
