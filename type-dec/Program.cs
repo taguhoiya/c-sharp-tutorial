@@ -8,9 +8,18 @@
 // var limit = 3;
 // int[] source = { 0, 1, 2, 3, 4, 5 };
 
+List<string> stringList = new List<string>{"hoge"};
+stringList.Add("String example");
+// compile time error adding a type other than a string:
+// stringList.Add(4);
+foreach (string s in stringList)
+{
+  Console.Write($"[{s}]");
+};
+
 class LowNums
 {
-  static void Main()
+  static void Query()
   {
     // A simple data source.
     int[] numbers = { 5, 4, 1, 3, 9, 8, 6, 7, 2, 0 };
