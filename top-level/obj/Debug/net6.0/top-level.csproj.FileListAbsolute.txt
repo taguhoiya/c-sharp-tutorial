@@ -1,0 +1,15 @@
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/top-level/bin/Debug/net6.0/top-level
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/top-level/bin/Debug/net6.0/top-level.deps.json
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/top-level/bin/Debug/net6.0/top-level.runtimeconfig.json
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/top-level/bin/Debug/net6.0/top-level.dll
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/top-level/bin/Debug/net6.0/top-level.pdb
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/top-level/obj/Debug/net6.0/top-level.csproj.AssemblyReference.cache
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/top-level/obj/Debug/net6.0/top-level.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/top-level/obj/Debug/net6.0/top-level.AssemblyInfoInputs.cache
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/top-level/obj/Debug/net6.0/top-level.AssemblyInfo.cs
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/top-level/obj/Debug/net6.0/top-level.csproj.CoreCompileInputs.cache
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/top-level/obj/Debug/net6.0/top-level.dll
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/top-level/obj/Debug/net6.0/refint/top-level.dll
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/top-level/obj/Debug/net6.0/top-level.pdb
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/top-level/obj/Debug/net6.0/top-level.genruntimeconfig.cache
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/top-level/obj/Debug/net6.0/ref/top-level.dll
