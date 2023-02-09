@@ -1,0 +1,15 @@
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/type-dec/obj/Debug/net6.0/type-dec.csproj.AssemblyReference.cache
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/type-dec/obj/Debug/net6.0/type-dec.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/type-dec/obj/Debug/net6.0/type-dec.AssemblyInfoInputs.cache
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/type-dec/obj/Debug/net6.0/type-dec.AssemblyInfo.cs
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/type-dec/obj/Debug/net6.0/type-dec.csproj.CoreCompileInputs.cache
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/type-dec/bin/Debug/net6.0/type-dec
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/type-dec/bin/Debug/net6.0/type-dec.deps.json
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/type-dec/bin/Debug/net6.0/type-dec.runtimeconfig.json
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/type-dec/bin/Debug/net6.0/type-dec.dll
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/type-dec/bin/Debug/net6.0/type-dec.pdb
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/type-dec/obj/Debug/net6.0/type-dec.dll
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/type-dec/obj/Debug/net6.0/refint/type-dec.dll
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/type-dec/obj/Debug/net6.0/type-dec.pdb
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/type-dec/obj/Debug/net6.0/type-dec.genruntimeconfig.cache
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/type-dec/obj/Debug/net6.0/ref/type-dec.dll
