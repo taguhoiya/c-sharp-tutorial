@@ -1,0 +1,15 @@
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/main-method/bin/Debug/net7.0/main-method
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/main-method/bin/Debug/net7.0/main-method.deps.json
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/main-method/bin/Debug/net7.0/main-method.runtimeconfig.json
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/main-method/bin/Debug/net7.0/main-method.dll
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/main-method/bin/Debug/net7.0/main-method.pdb
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/main-method/obj/Debug/net7.0/main-method.csproj.AssemblyReference.cache
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/main-method/obj/Debug/net7.0/main-method.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/main-method/obj/Debug/net7.0/main-method.AssemblyInfoInputs.cache
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/main-method/obj/Debug/net7.0/main-method.AssemblyInfo.cs
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/main-method/obj/Debug/net7.0/main-method.csproj.CoreCompileInputs.cache
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/main-method/obj/Debug/net7.0/main-method.dll
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/main-method/obj/Debug/net7.0/refint/main-method.dll
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/main-method/obj/Debug/net7.0/main-method.pdb
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/main-method/obj/Debug/net7.0/main-method.genruntimeconfig.cache
+/Users/kawasaki.takudai/PrivateProject/c#-tutorial/main-method/obj/Debug/net7.0/ref/main-method.dll
